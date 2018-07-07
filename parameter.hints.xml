@@ -1,0 +1,37 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.hamcrest.core.Is.is(value)" />
+        <added pattern="java.lang.LinkageError.LinkageError(s,cause)" />
+        <added pattern="com.diffplug.gradle.spotless.ErrorShouldRethrow.writeBuild(toInsert)" />
+        <added pattern="com.diffplug.spotless.ResourceHarness.write(path,lines)" />
+        <added pattern="com.diffplug.gradle.spotless.ErrorShouldRethrow.runWithSuccess(messages)" />
+      </blacklist>
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="kotlin.Int.minus(other)" />
+        <added pattern="kotlin.ranges.coerceAtLeast(minimumValue)" />
+        <added pattern="eu.davidea.flexibleadapter.common.FlexibleItemDecoration.withDrawDividerOnLastItem(lastItem)" />
+        <added pattern="org.jetbrains.spek.api.dsl.it(description,body)" />
+        <added pattern="org.jetbrains.spek.api.dsl.on(description,body)" />
+        <added pattern="org.jetbrains.spek.api.dsl.given(description,body)" />
+        <added pattern="com.natpryce.hamkrest.equalTo(expected)" />
+        <added pattern="kotlin.Int.plus(other)" />
+        <added pattern="kotlin.Int.times(other)" />
+        <added pattern="kotlin.Suppress(names)" />
+        <added pattern="com.github.magneticflux.aoc.geom.IntVector2D(dx,dy)" />
+        <added pattern="com.google.common.graph.GraphBuilder.allowsSelfLoops(allowsSelfLoops)" />
+        <added pattern="com.google.common.graph.MutableGraph.putEdge(nodeU,nodeV)" />
+        <added pattern="com.google.common.graph.MutableGraph.addNode(node)" />
+        <added pattern="com.google.common.graph.MutableValueGraph.putEdgeValue(nodeU,nodeV,value)" />
+        <added pattern="com.google.common.graph.MutableValueGraph.addNode(node)" />
+        <added pattern="com.google.common.graph.ValueGraphBuilder.allowsSelfLoops(allowsSelfLoops)" />
+        <added pattern="java.util.regex.Matcher.group(group)" />
+        <added pattern="java.util.regex.Pattern.compile(regex)" />
+        <added pattern="kotlin.to(that)" />
+        <added pattern="com.github.magneticflux.rss.SampleUtils.getSample(name)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
