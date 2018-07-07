@@ -1,41 +1,28 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="CMakeSettings">
+        <configurations>
+          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+        </configurations>
+      </component>
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
       <component name="GradleLocalSettings">
         <option name="projectSyncType">
           <map>
-            <entry key="$USER_HOME$/IdeaProjects/hello-kotlin" value="PREVIEW" />
-            <entry key="$USER_HOME$/IdeaProjects/kotlin-livedata-utils" value="PREVIEW" />
-            <entry key="$USER_HOME$/IdeaProjects/kotlin-simplexml-rss" value="PREVIEW" />
-            <entry key="$USER_HOME$/IdeaProjects/kryo-serializers-gradle" value="PREVIEW" />
+            <entry key="$USER_HOME$/StudioProjects/kotlin-livedata-utils" value="PREVIEW" />
           </map>
         </option>
       </component>
-      <component name="JsBowerSettings">
-        <node-interpreter value="project" />
-        <bower-package value="" />
-        <bower.json value="" />
-      </component>
-      <component name="JsFlowSettings">
-        <service-enabled>true</service-enabled>
-        <exe-path />
-        <other-services-enabled>true</other-services-enabled>
-        <auto-save>true</auto-save>
-      </component>
-      <component name="Kotlin2JsCompilerArguments">
-        <option name="sourceMapEmbedSources" />
-        <option name="sourceMapPrefix" />
-      </component>
-      <component name="MarkdownProjectSettings">
-        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" openRemoteLinks="true">
+      <component name="MarkdownProjectSettings" wasCopied="true">
+        <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
           <PanelProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
           </PanelProvider>
         </PreviewSettings>
-        <ParserSettings gitHubSyntaxChange="false">
+        <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="0" emojiImages="0">
           <PegdownExtensions>
             <option name="ABBREVIATIONS" value="false" />
             <option name="ANCHORLINKS" value="true" />
@@ -63,21 +50,26 @@
             <option name="WIKILINKS" value="true" />
           </PegdownExtensions>
           <ParserOptions>
-            <option name="COMMONMARK_LISTS" value="false" />
+            <option name="ADMONITION_EXT" value="false" />
+            <option name="ATTRIBUTES_EXT" value="false" />
+            <option name="COMMONMARK_LISTS" value="true" />
             <option name="DUMMY" value="false" />
             <option name="EMOJI_SHORTCUTS" value="true" />
+            <option name="ENUMERATED_REFERENCES_EXT" value="false" />
             <option name="FLEXMARK_FRONT_MATTER" value="false" />
             <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
             <option name="GFM_TABLE_RENDERING" value="true" />
             <option name="GITBOOK_URL_ENCODING" value="false" />
-            <option name="GITHUB_EMOJI_URL" value="false" />
-            <option name="GITHUB_LISTS" value="true" />
+            <option name="GITHUB_LISTS" value="false" />
             <option name="GITHUB_WIKI_LINKS" value="true" />
+            <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
             <option name="JEKYLL_FRONT_MATTER" value="false" />
+            <option name="NO_TEXT_ATTRIBUTES" value="false" />
+            <option name="PARSE_HTML_ANCHOR_ID" value="false" />
             <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
           </ParserOptions>
         </ParserSettings>
-        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false">
+        <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false">
           <GeneratorProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
           </GeneratorProvider>
@@ -86,54 +78,30 @@
           <bodyTop />
           <bodyBottom />
         </HtmlSettings>
-        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="true">
+        <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
           <StylesheetProvider>
             <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
           </StylesheetProvider>
           <ScriptProviders />
           <cssText />
+          <cssUriHistory />
         </CssSettings>
-        <HtmlExportSettings updateOnSave="false" parentDir="$ProjectFileDir$" targetDir="$ProjectFileDir$" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+        <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetExt="" useTargetExt="false" noCssNoScripts="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
         <LinkMapSettings>
           <textMaps />
         </LinkMapSettings>
       </component>
-      <component name="NodePackageJsonFileManager">
-        <packageJsonPaths />
-      </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" />
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="android.project.structure.last.selected" value="SDK Location" />
+        <property name="android.project.structure.proportion" value="0.15" />
+        <property name="android.sdk.path" value="E:/Android/sdk" />
         <property name="last_opened_file_path" value="$USER_HOME$/StudioProjects" />
-        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-        <property name="project.structure.last.edited" value="SDKs" />
-        <property name="project.structure.proportion" value="0.0" />
-        <property name="project.structure.side.proportion" value="0.0" />
-        <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+        <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="Applet" factoryName="Applet">
-          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-        </configuration>
         <configuration default="true" type="Application" factoryName="Application">
           <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-        </configuration>
-        <configuration default="true" type="JUnit" factoryName="JUnit">
-          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-          <option name="ALTERNATIVE_JRE_PATH" />
-          <option name="PACKAGE_NAME" />
-          <option name="MAIN_CLASS_NAME" />
-          <option name="METHOD_NAME" />
-          <option name="TEST_OBJECT" value="class" />
-          <option name="VM_PARAMETERS" value="-ea" />
-          <option name="PARAMETERS" />
-          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-          <option name="PASS_PARENT_ENVS" value="true" />
-          <option name="TEST_SEARCH_SCOPE">
-            <value defaultName="singleModule" />
-          </option>
-          <patterns />
         </configuration>
         <configuration default="true" type="TestNG" factoryName="TestNG">
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -157,6 +125,47 @@
           <properties />
           <listeners />
         </configuration>
+        <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="HTML_FILE_NAME" />
+          <option name="HTML_USED" value="false" />
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <option name="VM_PARAMETERS" />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+        </configuration>
       </component>
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
@@ -165,71 +174,18 @@
             <entry key="$USER_HOME$/StudioProjects/lcamera2" value="1495922249276" />
           </map>
         </option>
-        <option name="projectSyncType">
-          <map>
-            <entry key="$USER_HOME$/IdeaProjects/codecraft-tutorial/scala-solution" value="PREVIEW" />
-            <entry key="$USER_HOME$/IdeaProjects/play-scala-anorm-example" value="PREVIEW" />
-            <entry key="$USER_HOME$/IdeaProjects/scala-xsd-validation" value="PREVIEW" />
-          </map>
+        <option name="externalProjectsViewState">
+          <projects_view />
         </option>
-      </component>
-      <component name="ScalaSbtSettings">
-        <option name="customVMEnabled" value="true" />
-        <option name="customVMPath" value="C:\Program Files\Java\jdk1.8.0_152" />
       </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
-          <state key="ArquillianSettingsConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="GlobalLibrariesConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="JdkListConfigurable.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
           <state key="ProjectJDKs.UI">
             <settings>
               <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-          <state key="ProjectLibrariesConfigurable.UI">
-            <settings>
               <splitter-proportions>
                 <option name="proportions">
                   <list>
