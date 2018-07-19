@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.hamcrest.core.Is.is(value)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

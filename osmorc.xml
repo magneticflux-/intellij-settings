@@ -1,0 +1,14 @@
+<application>
+  <component name="Osmorc">
+    <option name="frameworkInstanceDefinitions">
+      <list>
+        <FrameworkInstanceDefinition>
+          <option name="baseFolder" value="C:\Users\Mitchell\Downloads\equinox-SDK-Oxygen.2" />
+          <option name="frameworkIntegratorName" value="Equinox" />
+          <option name="name" value="Equinox (3.12.50.v20170928-1321)" />
+          <option name="version" value="3.12.50.v20170928-1321" />
+        </FrameworkInstanceDefinition>
+      </list>
+    </option>
+  </component>
+</application>
