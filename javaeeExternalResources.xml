@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="https://raw.githubusercontent.com/apache/logging-log4j2/master/log4j-core/src/main/resources/Log4j-config.xsd" location="$USER_HOME$/IdeaProjects/canvas-grade-data-uploader" />
     <ignored-resource url="http://diveintomark.org/" />
     <ignored-resource url="http://purl.org/rss/1.0/modules/content/" />
     <ignored-resource url="http://purl.org/rss/1.0/modules/slash/" />
