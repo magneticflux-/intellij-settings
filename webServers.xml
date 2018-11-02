@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="57e9ca3e-edc0-49a4-b52c-e3f13e7569d0" name="mitchell@localhost:22" url="http:///">
+      <webServer id="72e87148-61a6-4909-80a0-8df93c76fc49" name="mitchell@localhost:22" url="http:///">
         <fileTransfer host="localhost" port="22" privateKey="C:\Users\Mitchell\.ssh\id_rsa" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
