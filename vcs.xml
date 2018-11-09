@@ -90,6 +90,10 @@
           <option name="url" value="https://github.com/magneticflux-/JNSGA-II.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/Java-NEAT.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mitchell\IdeaProjects" />
