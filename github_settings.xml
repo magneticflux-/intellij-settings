@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="a048ff79-35f0-42f5-a53b-0532ece63a9a" name="magneticflux-">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
