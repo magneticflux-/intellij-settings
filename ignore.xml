@@ -1,5 +1,5 @@
 <application>
-  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="106" version="2.6.2" starredTemplates="Java$NotepadPP$SBT$Scala$Node$PlayFramework$Windows$Android$Kotlin$JetBrains$Linux$Gradle$macOS" unignoreActions="true" hideIgnoredFiles="false" informTrackedIgnored="true" notifyIgnoredEditing="true">
+  <component name="IgnoreSettings" missingGitignore="true" ignoredFileStatus="true" outerIgnoreRules="true" outerIgnoreWrapperHeight="106" version="2.6.2" starredTemplates="C++$C$VirtualEnv$CMake$TeX$Vim$Python" unignoreActions="true" hideIgnoredFiles="false" informTrackedIgnored="true" notifyIgnoredEditing="true">
     <languages>
       <language id="Bazaar" NEW_FILE="true" ENABLE="true" />
       <language id="CloudFoundry" NEW_FILE="true" ENABLE="false" />
