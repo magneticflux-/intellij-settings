@@ -8,6 +8,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
-    <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
   </component>
 </application>
