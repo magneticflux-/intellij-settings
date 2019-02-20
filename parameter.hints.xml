@@ -4,6 +4,12 @@
       <blacklist language="Java">
         <added pattern="org.hamcrest.core.Is.is(value)" />
       </blacklist>
+      <blacklist language="Kotlin">
+        <added pattern="org.gradle.kotlin.dsl.implementation(dependencyNotation)" />
+        <added pattern="org.gradle.kotlin.dsl.compileOnly(dependencyNotation)" />
+        <added pattern="org.gradle.kotlin.dsl.runtimeOnly(dependencyNotation)" />
+        <added pattern="org.gradle.kotlin.dsl.testImplementation(dependencyNotation)" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
