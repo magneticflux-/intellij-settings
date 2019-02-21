@@ -9,6 +9,7 @@
         <added pattern="org.gradle.kotlin.dsl.compileOnly(dependencyNotation)" />
         <added pattern="org.gradle.kotlin.dsl.runtimeOnly(dependencyNotation)" />
         <added pattern="org.gradle.kotlin.dsl.testImplementation(dependencyNotation)" />
+        <added pattern="org.gradle.kotlin.dsl.compile(dependencyNotation)" />
       </blacklist>
     </blacklists>
   </component>
