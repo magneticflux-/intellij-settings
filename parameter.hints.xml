@@ -10,6 +10,7 @@
         <added pattern="org.gradle.kotlin.dsl.runtimeOnly(dependencyNotation)" />
         <added pattern="org.gradle.kotlin.dsl.testImplementation(dependencyNotation)" />
         <added pattern="org.gradle.kotlin.dsl.compile(dependencyNotation)" />
+        <added pattern="org.springframework.data.domain.Sort.by(properties)" />
       </blacklist>
     </blacklists>
   </component>
