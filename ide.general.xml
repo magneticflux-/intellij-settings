@@ -1,5 +1,6 @@
 <application>
   <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -8,5 +9,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="actionSystem.honor.modal.context" value="true" />
   </component>
 </application>
