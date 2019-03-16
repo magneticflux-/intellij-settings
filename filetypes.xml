@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".toDelete" type="PLAIN_TEXT" />
-      <mapping pattern="sample_input_google" type="PLAIN_TEXT" />
-      <mapping pattern="sample_input" type="PLAIN_TEXT" />
       <mapping pattern="PKGBUILD" type="PLAIN_TEXT" />
+      <mapping pattern=".toDelete" type="PLAIN_TEXT" />
+      <mapping pattern="sample_input" type="PLAIN_TEXT" />
+      <mapping pattern="sample_input_google" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="fsa" type="PLAIN_TEXT" />
       <mapping ext="pro" type="PLAIN_TEXT" />
