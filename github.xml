@@ -1,11 +1,10 @@
 <application>
   <component name="GithubAccounts">
-    <account id="838b5a78-32e3-4b38-916a-164f1dcc9818" name="magneticflux-">
+    <account id="a92f41ba-860c-44a0-b285-07a4201f5aee" name="magneticflux-">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
-    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
