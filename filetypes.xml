@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="PKGBUILD" type="PLAIN_TEXT" />
       <mapping pattern="sample_input_google" type="PLAIN_TEXT" />
+      <mapping pattern="spec_failures" type="PLAIN_TEXT" />
       <mapping pattern="sample_input" type="PLAIN_TEXT" />
       <mapping pattern=".toDelete" type="PLAIN_TEXT" />
       <mapping ext="fsa" type="PLAIN_TEXT" />
