@@ -3,51 +3,113 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/deblockt/hal-rest-client" />
+          <option name="url" value="https://github.com/Pattonville-Robotics/2866.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/sanfilippopablo/react-swipeable-routes.git" />
+          <option name="url" value="https://github.com/ftctechnh/ftc_app.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:magneticflux-/scala-graph.git" />
+          <option name="url" value="https://github.com/Pattonville-App-Development-Team/Android-App.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/FabricMC/fabric-example-mod.git" />
+          <option name="url" value="https://android.googlesource.com/platform/packages/apps/Calendar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/magneticflux-/kotlintest.git" />
+          <option name="url" value="https://github.com/Pattonville-Robotics/Project-Trailblazer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/magneticflux-/fabric-mumblelink-mod.git" />
+          <option name="url" value="https://github.com/magneticflux-/SparkButton.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://bitbucket.org/bloodnbonesgaming/blockphysics.git" />
+          <option name="url" value="https://github.com/magneticflux-/lcamera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/magneticflux-/yarn.git" />
+          <option name="url" value="https://github.com/magneticflux-/confetti.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:magneticflux-/fabric-language-scala.git" />
+          <option name="url" value="https://github.com/magneticflux-/ftc-lib-repo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/magneticflux-/fabric-loom.git" />
+          <option name="url" value="https://github.com/Pattonville-Robotics/Common-Code.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:magneticflux-/angular4-hal.git" />
+          <option name="url" value="https://github.com/Pattonville-Robotics/2867.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Pattonville-Robotics/7856.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/OpenFTC-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/OpenFTC-app-turbo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/vuforia-repackaged.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MatteoBattilana/WeatherView.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/davideas/FlexibleAdapter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/shipkit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zsawyer/MumbleLink.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magro/kryo-serializers.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/diffplug/spotless.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magneticflux-/kryo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Kotlin/kotlin-fullstack-sample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EdgeCaseBerg/scala-xsd-validation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cswinter/codecraft-tutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mitchell\IdeaProjects" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
   </component>
 </application>
